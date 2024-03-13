@@ -18,3 +18,94 @@ body{
     z-index: 1;
 }
 
+.logo{
+    top: 10px;
+    left: 70px;
+    position: relative;
+}
+
+.tovaru{
+    width: 135px;
+    height: 73px;
+    background-color: white;
+    position: relative;
+    border-radius: 15px;
+    left: 240px;
+    top: -90px;
+    font-size: 24;
+    font-weight: 500;
+    text-align: center; 
+    line-height: 73px;  
+}
+
+.vidhuk{
+    width: 135px;
+    height: 73px;
+    background-color: white;
+    position: relative;
+    border-radius: 15px;
+    left: 440px;
+    top: -163px;
+    font-size: 24;
+    font-weight: 500;
+    text-align: center; 
+    line-height: 73px
+}
+
+.about{
+    width: 135px;
+    height: 73px;
+    background-color: white;
+    position: relative;
+    border-radius: 15px;
+    left: 640px;
+    top: -235px;
+    font-size: 24;
+    font-weight: 500;
+    text-align: center; 
+    line-height: 73px
+}
+
+.akciy{
+    width: 135px;
+    height: 73px;
+    background-color: white;
+    position: relative;
+    border-radius: 15px;
+    left: 840px;
+    top: -307px;
+    font-size: 24;
+    font-weight: 500;
+    text-align: center; 
+    line-height: 73px
+}
+
+.poshyk{
+    width: 244px;
+    height: 73px;
+    background-color: white;
+    position: relative;
+    border-radius: 15px;
+    left: 1040px;
+    top: -379px;
+}
+
+.buy{
+    top: -464px;
+    left: 1350px;
+    position: relative;
+}
+
+.user{
+    top: -464px;
+    left: 1375px;
+    position: relative;
+}
+
+.search{
+    top: -474px;
+    left: 850px;
+    position: relative;
+}
+
+
