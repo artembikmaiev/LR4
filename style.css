@@ -81,7 +81,7 @@ body{
 }
 
 .poshyk{
-    width: 244px;
+    width: 480px;
     height: 73px;
     background-color: white;
     position: relative;
@@ -92,13 +92,13 @@ body{
 
 .buy{
     top: -464px;
-    left: 1350px;
+    left: 1580px;
     position: relative;
 }
 
 .user{
     top: -464px;
-    left: 1375px;
+    left: 1605px;
     position: relative;
 }
 
@@ -106,6 +106,68 @@ body{
     top: -474px;
     left: 850px;
     position: relative;
+}
+
+.photo1{
+    width: 830px; 
+    height: 480px;
+    left: 70px;
+    top: 150px;
+    position: relative;
+    border-radius: 50px;
+}
+
+.photo2{
+    width: 210px;
+    height: 140px;
+    left: 110px;
+    top: 165px;
+    position: relative;
+    border-radius: 15px;
+}
+
+.photo3{
+    width: 210px;
+    height: 140px;
+    left: 370px;
+    top: 14px;
+    position: relative;
+    border-radius: 15px;
+}
+
+.photo4{
+    width: 210px;
+    height: 140px;
+    left: 630px;
+    top: -137px;
+    position: relative;
+    border-radius: 15px;
+}
+
+.text1{
+    font-size: 48px;
+    font-weight: bolder;
+    position: relative;
+    top: -680px;
+    left: 1100px;
+}
+
+.text2{
+    font-size: 28px;
+    font-weight: 200;
+    position: relative;
+    top: -650px;
+    left: 1000px;
+
+    height: 580px;
+    width: 800px;
+}
+
+.Line1{
+    height: 3px;
+    margin-top: -770px;
+    border: 0;
+    background-color: #000000;
 }
 
 
