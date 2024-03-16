@@ -4,7 +4,7 @@ html {
 }
 
 body{
-    height: 9000px; 
+    height: 8600px; 
     background-color: #5C7CA3;
     overflow-x: hidden;
 }
@@ -790,3 +790,152 @@ body{
     border: 0;
     background-color: #000000;
 }
+
+.phone11{
+    top: 150px;
+    left: 270px;
+    position: relative;
+}
+
+.phone1{
+    width: 170px;
+    height: 170px;  
+}
+
+.text22{
+    font-size: 40px;
+    font-weight: 400;
+    position: relative;
+    top: 130px;
+    left: 180px;
+    height: 100px;
+    width: 360px;
+    text-align: center;
+ }
+
+ .email11{
+    top: -140px;
+    left: 870px;
+    position: relative;
+}
+
+.email1{
+    width: 170px;
+    height: 170px;  
+}
+
+.text23{
+    font-size: 40px;
+    font-weight: 400;
+    position: relative;
+    top: -120px;
+    left: 780px;
+    height: 100px;
+    width: 360px;
+    text-align: center;
+ }
+
+ .hand11{
+    top: -410px;
+    left: 1470px;
+    position: relative;
+}
+
+.hand1{
+    width: 170px;
+    height: 170px;  
+}
+
+.text24{
+    font-size: 40px;
+    font-weight: 400;
+    position: relative;
+    top: -395px;
+    left: 1350px;
+    height: 100px;
+    width: 360px;
+    text-align: center;
+ }
+
+ .down {
+    width: 2000px;
+    height: 130px;
+    background: #C2CBAA;
+    position: relative;
+    top: -200px;
+    left: -50px;
+    z-index: 1;
+}
+
+.novinu{
+    width: 200px;
+    height: 73px;
+    background-color: #ACACAC;
+    position: relative;
+    border-radius: 15px;
+    left: 150px;
+    top: 30px;
+    font-size: 24;
+    font-weight: 500;
+    text-align: center; 
+    line-height: 73px
+}
+
+.zvyazok{
+    width: 200px;
+    height: 73px;
+    background-color: #ACACAC;
+    position: relative;
+    border-radius: 15px;
+    left: 400px;
+    top: -43px;
+    font-size: 24;
+    font-weight: 500;
+    text-align: center; 
+    line-height: 37px
+}
+
+.pronas{
+    width: 200px;
+    height: 73px;
+    background-color: #ACACAC;
+    position: relative;
+    border-radius: 15px;
+    left: 650px;
+    top: -115px;
+    font-size: 24;
+    font-weight: 500;
+    text-align: center; 
+    line-height: 70px
+}
+
+.inst{
+    position: relative;
+    left: 1300px;
+    top: -200px;
+}
+
+.tel{
+    position: relative;
+    left: 1410px;
+    top: -305px;
+}
+
+.face{
+    position: relative;
+    left: 1515px;
+    top: -410px;
+}
+
+.you{
+    position: relative;
+    left: 1620px;
+    top: -520px;
+}
+
+.tik{
+    position: relative;
+    left: 1710px;
+    top: -620px;
+}
+
