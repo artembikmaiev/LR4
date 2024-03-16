@@ -6,10 +6,11 @@ html {
 body{
     height: 9000px; 
     background-color: #5C7CA3;
+    overflow-x: hidden;
 }
 
 .top {
-    width: 100%;
+    width: 2000px;
     height: 130px;
     background: #C2CBAA;
     position: fixed;
@@ -193,7 +194,7 @@ body{
     background: #ACACAC;
     position: relative;
     border-radius: 20px;
-    font-size: 36;
+    font-size: 36px;
     font-weight: 500;
     text-align: center; 
     line-height: 100px;
@@ -207,7 +208,7 @@ body{
     background: #ACACAC;
     position: relative;
     border-radius: 20px;
-    font-size: 36;
+    font-size: 36px;
     font-weight: 500;
     text-align: center; 
     line-height: 100px;
@@ -239,7 +240,7 @@ body{
     background: #ACACAC;
     position: relative;
     border-radius: 20px;
-    font-size: 36;
+    font-size: 36px;
     font-weight: 500;
     text-align: center; 
     line-height: 100px;
@@ -253,7 +254,7 @@ body{
     background: #ACACAC;
     position: relative;
     border-radius: 20px;
-    font-size: 36;
+    font-size: 36px;
     font-weight: 500;
     text-align: center; 
     line-height: 100px;
@@ -268,3 +269,140 @@ body{
     background-color: #000000;
 }
 
+.text3{
+    font-size: 48px;
+    font-weight: bolder;
+    position: relative;
+    top: 40px; 
+    left: 180px;
+}
+
+.photo9{
+    width: 700px;
+    height: 505px;
+    top: 80px;
+    left: 70px;
+    position: relative;
+    border-radius: 50px;
+}
+
+.photo10{
+    width: 210px;
+    height: 140px;
+    left: 70px;
+    top: 105px;
+    position: relative;
+    border-radius: 15px;
+}
+
+
+.photo11{
+    width: 210px;
+    height: 140px;
+    left: 300px;
+    top: -46px;
+    position: relative;
+    border-radius: 15px;
+}
+
+.photo12{
+    width: 210px;
+    height: 140px;
+    left: 530px;
+    top: -197px;
+    position: relative;
+    border-radius: 15px;
+}
+
+.cina{
+    width: 190px;
+    height: 84px;
+    background: #ACACAC;
+    position: relative;
+    border-radius: 20px;
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center; 
+    line-height: 84px;
+    top: -850px;
+    left: 900px;
+}
+
+.kyputu{
+    width: 200px;
+    height: 84px;
+    background: #ACACAC;
+    position: relative;
+    border-radius: 20px;
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center; 
+    padding-left: 90px;
+    line-height: 84px;
+    top: -933px;
+    left: 1130px;
+}
+
+.korzuna{
+    width: 70px;
+    height: 70px;
+    top: -1010px;
+    left: 1160px;
+    position: relative;
+}
+
+.like{
+    width: 84px;
+    height: 84px;
+    background: #ACACAC;
+    position: relative;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 84px;
+    top: -1098px;
+    left: 1460px;
+}
+
+.like1{
+    width: 70px;
+    height: 70px;
+    top: 8px;
+    position: relative;
+}
+
+.vidhuk{
+    width: 84px;
+    height: 84px;
+    background: #ACACAC;
+    position: relative;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 84px;
+    top: -1180px;
+    left: 1580px;
+}
+
+.vidhuk1{
+    width: 70px;
+    height: 70px;
+    top: 8px;
+    position: relative;
+}
+
+.text4{
+    font-size: 28px;
+    font-weight: 200;
+    position: relative;
+    top: -1100px;
+    left: 885px;
+    height: 580px;
+    width: 800px;
+    text-align: justify;
+}
+
+.Line3{
+    height: 3px;
+    margin-top: -1180px;
+    border: 0;
+    background-color: #000000;
+}
