@@ -158,9 +158,10 @@ body{
     font-weight: 200;
     position: relative;
     top: -650px;
-    left: 1000px;
+    left: 950px;
     height: 580px;
     width: 800px;
+    text-align: center;
 }
 
 .Line1{
@@ -397,7 +398,7 @@ body{
     left: 885px;
     height: 580px;
     width: 800px;
-    text-align: justify;
+    text-align: center;
 }
 
 .Line3{
@@ -483,7 +484,6 @@ body{
     position: relative;
     border-radius: 20px;
     border: 2px solid #000000;
-    border-color: #000000;
     font-size: 20px;
     font-weight: 500;
     text-align: center; 
@@ -532,7 +532,7 @@ body{
     left: 910px;
     height: 580px;
     width: 800px;
-    text-align: justify;
+    text-align: center;
  }
 
 .photo14{
@@ -560,7 +560,7 @@ body{
     left: 70px;
     height: 580px;
     width: 800px;
-    text-align: justify;
+    text-align: center;
  }
 
 .photo15{
@@ -588,7 +588,7 @@ body{
     left: 910px;
     height: 580px;
     width: 800px;
-    text-align: justify;
+    text-align: center;
  }
 
 .photo16{
@@ -616,12 +616,177 @@ body{
     left: 70px;
     height: 580px;
     width: 800px;
-    text-align: justify;
+    text-align: center;
  }
 
  .Line5{
     height: 3px;
     margin-top: -2320px;
+    border: 0;
+    background-color: #000000;
+}
+
+.text15{
+    font-size: 40px;
+    font-weight: 200;
+    position: relative;
+    left: 100px;
+    top: 50px;
+ }
+
+ .circle3{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: 2px solid #000000;
+    left: 260px;
+    top: 152px;
+    line-height: 100px; 
+    text-align: center; 
+    font-size: 40px;
+}
+
+.text16{
+    font-size: 32px;
+    font-weight: 200;
+    position: relative;
+    left: 180px;
+    top: 160px;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+ }
+
+ .circle4{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: 2px solid #000000;
+    left: 860px;
+    top: -52px;
+    line-height: 100px; 
+    text-align: center; 
+    font-size: 40px;
+}
+
+.text17{
+    font-size: 32px;
+    font-weight: 200;
+    position: relative;
+    left: 780px;
+    top: -35px;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+ }
+
+ .circle5{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: 2px solid #000000;
+    left: 1480px;
+    top: -254px;
+    line-height: 100px; 
+    text-align: center; 
+    font-size: 40px;
+}
+
+.text18{
+    font-size: 32px;
+    font-weight: 200;
+    position: relative;
+    left: 1400px;
+    top: -235px;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+ }
+
+ .circle6{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: 2px solid #000000;
+    left: 260px;
+    top: -40px;
+    line-height: 100px; 
+    text-align: center; 
+    font-size: 40px;
+}
+
+.text19{
+    font-size: 32px;
+    font-weight: 200;
+    position: relative;
+    left: 180px;
+    top: -20px;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+ }
+
+ .circle7{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: 2px solid #000000;
+    left: 860px;
+    top: -245px;
+    line-height: 100px; 
+    text-align: center; 
+    font-size: 40px;
+}
+
+.text20{
+    font-size: 32px;
+    font-weight: 200;
+    position: relative;
+    left: 780px;
+    top: -230px;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+ }
+
+ .circle8{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: 2px solid #000000;
+    left: 1480px;
+    top: -448px;
+    line-height: 100px; 
+    text-align: center; 
+    font-size: 40px;
+}
+
+.text21{
+    font-size: 32px;
+    font-weight: 200;
+    position: relative;
+    left: 1400px;
+    top: -435px;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+ }
+
+ .Line6{
+    height: 3px;
+    margin-top: -200px;
     border: 0;
     background-color: #000000;
 }
