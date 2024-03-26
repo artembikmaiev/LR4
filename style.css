@@ -1,6 +1,6 @@
 html {
 	font-size:28px;
-    font-family: Jost;
+    font-family: 'Comfortaa', cursive;
 }
 
 body{
@@ -150,7 +150,7 @@ body{
     font-weight: bolder;
     position: relative;
     top: -680px;
-    left: 1100px;
+    left: 1050px;
 }
 
 .text2{
@@ -158,7 +158,7 @@ body{
     font-weight: 200;
     position: relative;
     top: -650px;
-    left: 950px;
+    left: 990px;
     height: 580px;
     width: 800px;
     text-align: center;
@@ -275,7 +275,7 @@ body{
     font-weight: bolder;
     position: relative;
     top: 40px; 
-    left: 180px;
+    left: 120px;
 }
 
 .photo9{
@@ -427,7 +427,7 @@ body{
     border-radius: 20px;
     font-size: 20px;
     text-align: center;
-    line-height: 65px;
+    line-height: 50px;
     left: 270px;
     top: -50px;
 }
@@ -520,15 +520,15 @@ body{
     font-size: 48px;
     font-weight: bolder;
     position: relative;
-    top: -400px; 
-    left: 1050px;
+    top: -450px; 
+    left: 1150px;
  }
 
  .text7{
     font-size: 28px;
     font-weight: 200;
     position: relative;
-    top: -300px;
+    top: -400px;
     left: 910px;
     height: 580px;
     width: 800px;
@@ -549,14 +549,14 @@ body{
     font-weight: bolder;
     position: relative;
     top: -1000px;
-    left: 200px;
+    left: 120px;
  }
 
  .text10{
     font-size: 28px;
     font-weight: 200;
     position: relative;
-    top: -920px;
+    top: -950px;
     left: 70px;
     height: 580px;
     width: 800px;
@@ -576,15 +576,15 @@ body{
     font-size: 48px;
     font-weight: bolder;
     position: relative;
-    top: -1600px; 
-    left: 1050px;
+    top: -1650px; 
+    left: 1100px;
  }
 
  .text12{
     font-size: 28px;
     font-weight: 200;
     position: relative;
-    top: -1520px;
+    top: -1600px;
     left: 910px;
     height: 580px;
     width: 800px;
@@ -604,7 +604,7 @@ body{
     font-size: 48px;
     font-weight: bolder;
     position: relative;
-    top: -2200px;
+    top: -2250px;
     left: 200px;
  }
 
@@ -612,8 +612,8 @@ body{
     font-size: 28px;
     font-weight: 200;
     position: relative;
-    top: -2120px;
-    left: 70px;
+    top: -2200px;
+    left: 90px;
     height: 580px;
     width: 800px;
     text-align: center;
